@@ -1,2 +1,3 @@
-# course-rocket
-Course NC - Rocket
+# COURSE RUST WEBASSEMBLY 
+
+Course NC - WebAssembly
